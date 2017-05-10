@@ -9,6 +9,7 @@
   "author": "daidv",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "nodemon": "^1.11.0"
   }
 }
